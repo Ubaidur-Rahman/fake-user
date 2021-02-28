@@ -1,0 +1,15 @@
+.user-container{
+    border-right: 1px solid rgb(0, 0, 0);
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(223, 223, 223);
+    width: 70%;
+}
+.user-btn{
+    background-color: goldenrod;
+    width: 150px;
+    height: 30px;
+    border: 1px solid darkorange;
+    border-radius: 5px;
+    cursor: pointer;
+}
